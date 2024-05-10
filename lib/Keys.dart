@@ -1,0 +1,2 @@
+String kConsumerkey = "GhQSYGI9heytMoGuTiGS32BHsAcDUElYCDWG9N12oOsTaBnf";
+String kConsumerSecret = "mHb5wGkDSelmnUtZnhwq5Jq6FRcZMdZGlh8TazHx6v0M98HywEHcRTNqrPRf2hR3";
